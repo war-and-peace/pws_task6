@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# IDE specific
+task6/.vs/
+task6/x64/
+task6/Debug/
